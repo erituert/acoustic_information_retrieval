@@ -26,7 +26,7 @@ Code in Google Colab Notebook:
  aasc_tdidf.ipynb
 ```
 ## Result
-![Heatmap of emotion embeddings](https://github.com/erituert/acoustic_information_retrieval/imgs/heatmap_emotions.pdf)
+![Heatmap of emotion embeddings](https://github.com/erituert/acoustic_information_retrieval/imgs/heatmap_emotions.png)
 
 ## Notes
 Please note that this GitHub repository is subject to changes. Contact the corresponding authors for any request.
