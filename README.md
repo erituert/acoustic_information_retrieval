@@ -25,7 +25,7 @@ Code in Google Colab Notebook:
 ```
  aasc_tdidf.ipynb
 ```
-## Result
+## Result of the Emotional Characterization of the Acoustic Scene Analysis
 ![Heatmap of emotion embeddings](https://github.com/erituert/acoustic_information_retrieval/blob/main/imgs/heatmap_emotions.png)
 
 ## Notes
