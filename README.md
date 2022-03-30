@@ -25,6 +25,8 @@ Code in Google Colab Notebook:
 ```
  aasc_tdidf.ipynb
 ```
+## Result
+![Alt text](imgs/heatmap_emotions.pdf?raw=true "Heatmap of emotion embeddings")
 
 ## Notes
 Please note that this GitHub repository is subject to changes. Contact the corresponding authors for any request.
