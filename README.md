@@ -1,18 +1,18 @@
 # An Information Retrieval-based Approach for Bridging the Semantic Gap with Affective Acoustic Scene Classification (AASC)
 
-### Introduction
+## Introduction
 This GitHub repository aims to provide the details of the methodology used to define the acoustic fingerprint of emotions by generating embeddings from acoustic
 events that may cause them, answering to the following question: Is it possible to characterize the acoustic events that induce emotions? 
 
-### Summary
+## Summary
 We use YAMNet, an acoustic events classifier trained in Audioset to classify acoustic events in the WEMAC Audiovisual stimuli dataset. Each video in this dataset is labelled with the categorical emotion it induces by crowdsourcing. Thus we determine the relevance of the acoustic events to induce each emotion, creating acoustic fingerprints of such emotions, by means of the information retrieval based
 TF-IDF algorithm. 
 
-### Part 1: Detecting acoustic events in WEMAC Audiovisual stimuli dataset
+## Methodology Part 1: Detecting acoustic events in WEMAC Audiovisual stimuli dataset
 
 ...
 
-### Part 2: Applying tf-idf in acoustic events in WEMAC Audiovisual stimuli dataset
+## Mehotdology Part 2: Applying tf-idf in acoustic events in WEMAC Audiovisual stimuli dataset
 
 Required files: 
 ```
