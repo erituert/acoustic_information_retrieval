@@ -1,7 +1,7 @@
 # An Information Retrieval-based Approach for Bridging the Semantic Gap with Affective Acoustic Scene Classification (AASC)
 
 ### Introduction
-This GitHub subrepository aims to provide the details of the methodology used to define the acoustic fingerprint of emotions by generating embeddings from acoustic
+This GitHub repository aims to provide the details of the methodology used to define the acoustic fingerprint of emotions by generating embeddings from acoustic
 events that may cause them, answering to the following question: Is it possible to characterize the acoustic events that induce emotions? 
 
 ### Summary
