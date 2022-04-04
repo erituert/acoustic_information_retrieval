@@ -23,14 +23,14 @@ The <i>Code number video</i> of the audiovisual stimuli used in this study are t
 
 ## Mehotdology Part 2: Applying tf-idf in acoustic events in WEMAC Audiovisual stimuli dataset
 
-Required files: 
+### Required files: 
 <ul>
   <li>class_labels_indices.csv -> Available in <i>/corpus/</i></li>
   <li>corpus_mids_220325_wemac_allemotions_all_patchhop_1.csv -> Available in <i>/corpus/uc3m4safety_stimulus/</i> </li>
   <li>01_dataset_list_video_uc3m4safety_database_2021_v01.xlsx -> To be located in <i>/corpus/</i> and available for download <a href="https://doi.org/10.21950/LUO1IZ">here</a></li>
 </ul>
 
-Code in Google Colab Notebook:
+### Code in Google Colab Notebook:
 ```
  aasc_tdidf.ipynb
 ```
