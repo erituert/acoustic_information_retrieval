@@ -37,6 +37,16 @@ Code in Google Colab Notebook:
 ## Result of the Emotional Characterization of the Acoustic Scene Analysis
 ![Heatmap of emotion embeddings](https://github.com/erituert/acoustic_information_retrieval/blob/main/imgs/heatmap_emotions.png)
 
+## Citing 
+```bibtex
+@misc{luismingueza2022acoustic,
+      title={Bridging the Semantic Gap with Affective Acoustic Scene Classification: an Information Retrieval-based Approach}, 
+      author={Clara Luis-Mingueza and Esther Rituerto-González and Carmen Peláez-Moreno},
+      year={2022},
+      note={submitted to Interspeech 2022}
+}
+```
+
 ## Authors
 Esther Rituerto González, erituert [at] ing(dot)uc3m(dot)es <a href="https://github.com/erituert/">[GitHub]</a> <br />
 Clara Luis Mingueza, clmingueza [at] tsc(dot)uc3m(dot)es <a href="https://github.com/clm-empatia">[GitHub]</a> <br />
