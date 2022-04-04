@@ -13,7 +13,7 @@ TF-IDF algorithm.
 
 ## Dataset
 We use a subset of the <a href = "https://arxiv.org/abs/2203.00456">UC3M4Safety Database Audiovisual stimuli (videos)</a>. 
-The _Code number video_ of the audiovisual stimuli used in this study are the following:
+The <i>Code number video</i> of the audiovisual stimuli used in this study are the following:
 ```
 9 12 13 37 148 14 45 117 133 141 82 83 84 85 86 88 89 90 91 92 93 94 95 98 99 101 121 132 136 24 66 67 68 51 55 58 159 161 103 104 106 111 70 105 158 
 ```
@@ -25,9 +25,9 @@ The _Code number video_ of the audiovisual stimuli used in this study are the fo
 
 Required files: 
 <ul>
-  <li>class_labels_indices.csv -> Available in _/corpus/_</li>
-  <li>corpus_mids_220325_wemac_allemotions_all_patchhop_1.csv -> Available in _/corpus/uc3m4safety_stimulus/_ </li>
-  <li>01_dataset_list_video_uc3m4safety_database_2021_v01.xlsx -> To be located in _/corpus/_ and available for download <a href="https://doi.org/10.21950/LUO1IZ">here</a></li>
+  <li>class_labels_indices.csv -> Available in <i>/corpus/</i></li>
+  <li>corpus_mids_220325_wemac_allemotions_all_patchhop_1.csv -> Available in <i>/corpus/uc3m4safety_stimulus/</i> </li>
+  <li>01_dataset_list_video_uc3m4safety_database_2021_v01.xlsx -> To be located in <i>/corpus/</i> and available for download <a href="https://doi.org/10.21950/LUO1IZ">here</a></li>
 </ul>
 
 Code in Google Colab Notebook:
