@@ -43,6 +43,9 @@ Code in Google Colab Notebook:
       title={Bridging the Semantic Gap with Affective Acoustic Scene Classification: an Information Retrieval-based Approach}, 
       author={Clara Luis-Mingueza and Esther Rituerto-González and Carmen Peláez-Moreno},
       year={2022},
+      publisher = {...}, 
+      doi = {...},
+      url = {...},
       note={submitted to Interspeech 2022}
 }
 ```
