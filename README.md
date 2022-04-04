@@ -12,7 +12,7 @@ We use YAMNet, an acoustic events classifier trained in Audioset to classify aco
 TF-IDF algorithm. 
 
 ## Dataset
-We use a subset of the <a href = "http://hdl.handle.net/10016/32481">UC3M4Safety Database</a> Audiovisual stimuli (videos). More information <a href="https://doi.org/10.21950/LUO1IZ">here</a>. 
+We use a subset of the <a href = "https://arxiv.org/abs/2203.00456">UC3M4Safety Database Audiovisual stimuli (videos)</a>. 
 The Video IDs used in this study are the following:
 ```
 V01 V02 V03 V04 V05 V06 V07 V08 V09 V10 V11 V12 V13 V14 V15 V16 V17 V18 V19 V20 V21 V22 V23 V24 V25 V26 V27 V28 V29 V30 V31 V32 V33 V34 V35 V36 V37 V38 V39 V40 V41 V42 V43 V44 V45 
