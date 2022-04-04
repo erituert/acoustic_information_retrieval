@@ -24,11 +24,11 @@ V01 V02 V03 V04 V05 V06 V07 V08 V09 V10 V11 V12 V13 V14 V15 V16 V17 V18 V19 V20 
 ## Mehotdology Part 2: Applying tf-idf in acoustic events in WEMAC Audiovisual stimuli dataset
 
 Required files: 
-```
+
  class_labels_indices.csv
  corpus_mids_220325_wemac_allemotions_all_patchhop_1.csv
- <a href="https://doi.org/10.21950/LUO1IZ">wemac_summer.csv</a>
-```
+ 01_dataset_list_video_uc3m4safety_database_2021_v01.xlsx -> Available <a href="https://doi.org/10.21950/LUO1IZ">here</a>
+
 
 Code in Google Colab Notebook:
 ```
