@@ -25,9 +25,9 @@ The _Code number video_ of the audiovisual stimuli used in this study are the fo
 
 Required files: 
 <ul>
-  <li>class_labels_indices.csv -> Available in /corpus/</li>
-  <li>corpus_mids_220325_wemac_allemotions_all_patchhop_1.csv -> Available in /corpus/uc3m4safety_stimulus/ </li>
-  <li>01_dataset_list_video_uc3m4safety_database_2021_v01.xlsx -> To be located in /corpus/ and available for download <a href="https://doi.org/10.21950/LUO1IZ">here</a></li>
+  <li>class_labels_indices.csv -> Available in _/corpus/_</li>
+  <li>corpus_mids_220325_wemac_allemotions_all_patchhop_1.csv -> Available in _/corpus/uc3m4safety_stimulus/_ </li>
+  <li>01_dataset_list_video_uc3m4safety_database_2021_v01.xlsx -> To be located in _/corpus/_ and available for download <a href="https://doi.org/10.21950/LUO1IZ">here</a></li>
 </ul>
 
 Code in Google Colab Notebook:
