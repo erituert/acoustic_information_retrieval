@@ -13,9 +13,9 @@ TF-IDF algorithm.
 
 ## Dataset
 We use a subset of the <a href = "https://arxiv.org/abs/2203.00456">UC3M4Safety Database Audiovisual stimuli (videos)</a>. 
-The Video IDs used in this study are the following:
+The _Code number video_ of the audiovisual stimuli used in this study are the following:
 ```
-V01 V02 V03 V04 V05 V06 V07 V08 V09 V10 V11 V12 V13 V14 V15 V16 V17 V18 V19 V20 V21 V22 V23 V24 V25 V26 V27 V28 V29 V30 V31 V32 V33 V34 V35 V36 V37 V38 V39 V40 V41 V42 V43 V44 V45 
+9 12 13 37 148 14 45 117 133 141 82 83 84 85 86 88 89 90 91 92 93 94 95 98 99 101 121 132 136 24 66 67 68 51 55 58 159 161 103 104 106 111 70 105 158 
 ```
 ## Methodology Part 1: Detecting acoustic events in WEMAC Audiovisual stimuli dataset
 
