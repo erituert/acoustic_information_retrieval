@@ -33,7 +33,7 @@ Code in Google Colab Notebook:
 
 ## Authors
 Esther Rituerto González, erituert [at] ing(dot)uc3m(dot)es <a href="https://github.com/erituert/">[GitHub]</a> <br />
-Clara Luis Mingueza, cluis [at] pa(dot)uc3m(dot)es <a href="https://github.com/clm-empatia">[GitHub]</a> <br />
+Clara Luis Mingueza, clmingueza [at] tsc(dot)uc3m(dot)es <a href="https://github.com/clm-empatia">[GitHub]</a> <br />
 
 ## Acknowledgements 
 The authors thank all the members of the UC3M4Safety for their support in the present work! 🟣
