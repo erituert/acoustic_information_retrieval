@@ -11,6 +11,12 @@ events that may cause them, answering to the following question: Is it possible 
 We use YAMNet, an acoustic events classifier trained in Audioset to classify acoustic events in the WEMAC Audiovisual stimuli dataset. Each video in this dataset is labelled with the categorical emotion it induces by crowdsourcing. Thus we determine the relevance of the acoustic events to induce each emotion, creating acoustic fingerprints of such emotions, by means of the information retrieval based
 TF-IDF algorithm. 
 
+## Dataset
+We use a subset of the <a href = "http://hdl.handle.net/10016/32481">UC3M4Safety Database<\a> Audiovisual stimuli (videos). More information <a href="https://doi.org/10.21950/LUO1IZ">here<\a>. 
+The Video IDs used in this study are the following:
+```
+V01 V02 V03 V04 V05 V06 V07 V08 V09 V10 V11 V12 V13 V14 V15 V16 V17 V18 V19 V20 V21 V22 V23 V24 V25 V26 V27 V28 V29 V30 V31 V32 V33 V34 V35 V36 V37 V38 V39 V40 V41 V42 V43 V44 V45 
+```
 ## Methodology Part 1: Detecting acoustic events in WEMAC Audiovisual stimuli dataset
 
 ...
@@ -21,7 +27,7 @@ Required files:
 ```
  class_labels_indices.csv
  corpus_mids_220325_wemac_allemotions_all_patchhop_1.csv
- wemac_summer.csv 
+ <a href="https://doi.org/10.21950/LUO1IZ">wemac_summer.csv<\a>
 ```
 
 Code in Google Colab Notebook:
