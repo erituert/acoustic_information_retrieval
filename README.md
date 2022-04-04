@@ -30,7 +30,8 @@ The <i>Code number video</i> of the audiovisual stimuli used in this study are t
   <li>01_dataset_list_video_uc3m4safety_database_2021_v01.xlsx -> To be located in <i>/corpus/</i> and available for download <a href="https://doi.org/10.21950/LUO1IZ">here</a></li>
 </ul>
 
-### Code in Google Colab Notebook:
+### Code 
+In Google Colab Notebook:
 ```
  aasc_tdidf.ipynb
 ```
