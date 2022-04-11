@@ -16,17 +16,11 @@ The <i>Code number video</i> of the audiovisual stimuli used in this study are t
 ```
 ## Methodology Part 1: Detecting acoustic events in WEMAC Audiovisual stimuli dataset
 
-### Required files: 
-<ul>
-  <li></li>
-  <li></li>
-</ul>
-
 ### Code 
 In Python script:
 ```
+ extract_corpus_bbddlab.py
  scores_to_binary_bbddlab.py
- 
 ```
 
 ## Mehotdology Part 2: Applying tf-idf in acoustic events in WEMAC Audiovisual stimuli dataset
