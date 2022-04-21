@@ -5,8 +5,8 @@ import numpy as np
 from sklearn.preprocessing import Binarizer
 
 # Variables
-in_path = '/home/vocalyre/ws/empatia/interspeech_aasc_tfidf/yamnet_outputs/uc3m4safety_stimulus/'
-out_path = '/home/vocalyre/ws/empatia/interspeech_aasc_tfidf/yamnet_outputs/uc3m4safety_stimulus/binscores/'
+in_path = './yamnet_outputs/uc3m4safety_stimulus/'
+out_path = './yamnet_outputs/uc3m4safety_stimulus/binscores/'
 
 N_CLASSES = 521
 N_SEC = 91
@@ -14,7 +14,6 @@ THR = 0.0027
 
 
 def main():
-
     median_array = np.zeros([N_CLASSES, 1], dtype='f')
     mean_array = np.zeros([N_CLASSES, 1], dtype='f')
     percentile_array = np.zeros([N_CLASSES, 1], dtype='f')

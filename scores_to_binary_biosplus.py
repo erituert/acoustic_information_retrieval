@@ -14,7 +14,6 @@ THR = 0.0019
 
 
 def main():
-
     median_array = np.zeros([N_CLASSES, 1], dtype='f')
     mean_array = np.zeros([N_CLASSES, 1], dtype='f')
     percentile_array = np.zeros([N_CLASSES, 1], dtype='f')
