@@ -33,8 +33,7 @@ pip install -r requirements.txt
 
 ### 1.A. Binary matrix of sound events:
 
-The provided YAMNet outputs located in `yamnet_outputs`, have been log-scaled and binarized afterwards:
-<img src="https://render.githubusercontent.com/render/math?math=y = \log_2(1 + x)">
+The provided YAMNet outputs located in `yamnet_outputs`, have been log-scaled and binarized afterwards.
 
 #### Code 
 Run the following python scripts to obtain the binary matrices.
