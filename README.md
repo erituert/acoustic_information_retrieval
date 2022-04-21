@@ -13,7 +13,7 @@ The <i>Code number video</i> of the audiovisual stimuli used in this study are t
 ```
 9 12 13 37 148 14 45 117 133 141 82 83 84 85 86 88 89 90 91 92 93 94 95 98 99 101 121 132 136 24 66 67 68 51 55 58 159 161 103 104 106 111 70 105 158 
 ```
-This dataset will be also refered as *BBDDLab* for convenience at some points of the pipeline.
+This dataset will be also referred as *BBDDLab* for convenience at some points of the pipeline.
 
 ## Part 1: Detecting acoustic events in WEMAC Audiovisual stimuli dataset
 
