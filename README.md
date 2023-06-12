@@ -79,14 +79,13 @@ In Google Colab Notebook:
 
 ## Citing 
 ```bibtex
-@misc{luismingueza2022acoustic,
-      title={Bridging the Semantic Gap with Affective Acoustic Scene Classification: an Information Retrieval-based Approach}, 
-      author={Clara Luis-Mingueza and Esther Rituerto-González and Carmen Peláez-Moreno},
-      year={2022},
-      publisher = {...}, 
-      doi = {...},
-      url = {...},
-      note={submitted to Interspeech 2022}
+@inproceedings{luismingueza22_iberspeech,
+  author={Clara Luis-Mingueza and Esther Rituerto-González and Carmen Peláez-Moreno},
+  title={{Bridging the Semantic Gap with Affective Acoustic Scene Analysis: an Information Retrieval-based Approach }},
+  year=2022,
+  booktitle={Proc. IberSPEECH 2022},
+  pages={91--95},
+  doi={10.21437/IberSPEECH.2022-19}
 }
 ```
 
