@@ -1,11 +1,10 @@
-# An Information Retrieval-based Approach for Bridging the Semantic Gap with Affective Acoustic Scene Classification (AASC)
+# Bridging the Semantic Gap with Affective Acoustic Scene Analysis: an Information Retrieval-based Approach
 
 ## Introduction
-This GitHub repository aims to provide the details of the methodology used to define the acoustic fingerprint of 10 different emotions by generating embeddings from acoustic events that may cause them, answering to the following question: Is it possible to characterize the acoustic events that induce emotions? 
+Is it possible to characterize the acoustic events that induce emotions? In this project, we detect the acoustic events from emotion-labeled videos, weight their importance for the elicitation of the emotion labeled and measure the distance between the weighted emotion embeddings, to find the relationship between acoustic events and the emotions they elitic.
 
-## Summary
-We use YAMNet, an acoustic events classifier trained in Audioset to classify acoustic events in the WEMAC Audiovisual stimuli dataset. Each video in this dataset is labelled with the categorical emotion it induces by crowdsourcing. Thus we determine the relevance of the acoustic events to induce each emotion, creating acoustic fingerprints of such emotions, by means of the information retrieval based
-TF-IDF algorithm. 
+## Methodology
+We use YAMNet, an acoustic events classifier trained in Audioset to classify acoustic events in the WEMAC Audiovisual stimuli dataset. Each video in this dataset is labelled with the categorical emotion it elicits, by crowdsourcing. Then we weight the relevance of the acoustic events for the elicitation of each emotion by means of the information retrieval based TF-IDF algorithm. Finally we calculate the cosine distance between the so-called 'acoustic fingerprints'. Results show that 'similar' or 'close' emotions according to humans, also have similar acoustic fingerprints.
 
 ## Dataset
 We use a subset of the <a href = "https://arxiv.org/abs/2203.00456">UC3M4Safety Database Audiovisual stimuli (videos)</a>. 
