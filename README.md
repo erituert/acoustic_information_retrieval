@@ -76,6 +76,8 @@ In Google Colab Notebook:
 ## Result of the Emotional Characterization of the Acoustic Scene Analysis
 ![Heatmap of emotion embeddings](https://github.com/erituert/acoustic_information_retrieval/blob/main/imgs/heatmap_emotions.png)
 
+This heatmap shows the cosine distance (1-distance) between each pair of averaged acoustic embeddings that describe each emotion. It shows that the acoustic fingerprint in videos that elicit similar emotions, are also close in distance.
+
 ## Citing 
 ```bibtex
 @inproceedings{luismingueza22_iberspeech,
